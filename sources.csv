@@ -1,0 +1,20 @@
+id,type,scheme,url
+1,scheme_page,Flexi Cap,https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
+2,scheme_page,Flexi Cap,https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/regular
+3,scheme_page,Large Cap,https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+4,scheme_page,Large Cap,https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/regular
+5,scheme_page,ELSS Tax Saver,https://www.hdfcfund.com/product-solutions/overview/hdfc-elss-tax-saver/direct
+6,scheme_page,ELSS Tax Saver,https://www.hdfcfund.com/product-solutions/overview/hdfc-elss-tax-saver/regular
+7,scheme_page,Mid Cap,https://www.hdfcfund.com/explore/mutual-funds/hdfc-mid-cap-fund/regular
+8,scheme_page,Mid Cap,https://www.hdfcfund.com/product-solutions/overview/hdfc-mid-cap-opportunities-fund/direct
+9,factsheet,Flexi Cap,https://files.hdfcfund.com/s3fs-public/Others/2026-06/Fund%20Facts%20-%20HDFC%20Flexi%20Cap%20Fund_June%2026.pdf
+10,factsheet,Mid Cap,https://files.hdfcfund.com/s3fs-public/Others/2026-07/Fund%20Facts%20-%20HDFC%20Mid-Cap%20Fund_July%2026.pdf
+11,factsheet,Large Cap,https://files.hdfcfund.com/s3fs-public/Others/2025-12/Fund%20Facts%20-%20HDFC%20Large%20Cap%20Fund_December%2025.pdf
+12,presentation,ELSS Tax Saver,https://files.hdfcfund.com/s3fs-public/Others/2025-10/HDFC%20ELSS%20Tax%20saver%20Presentation%20%28October%202025%29.pdf
+13,factsheet,ELSS Tax Saver,https://files.hdfcfund.com/s3fs-public/2025-03/ELSS%20Tax%20saver%20-%20Weekend%20Bytes%20-%20Mar%2025.pdf
+14,SID,Flexi Cap,https://files.hdfcfund.com/s3fs-public/SID/2025-11/SID%20-%20HDFC%20Flexi%20Cap%20Fund%20dated%20November%2021,%202025_0.pdf
+15,AMC_guide,All,https://www.hdfcfund.com/account-statement
+16,AMC_guide,All,https://www.hdfcfund.com/learners-corner/beginner/how-get-capital-gain-statement-mutual-fund-schemes-india
+17,SEBI,All,https://www.sebi.gov.in/legal/circulars/oct-2020/circular-on-product-labeling-in-mutual-fund-schemes-risk-o-meter_47796.html
+18,SEBI,All,https://www.sebi.gov.in/sebi_data/attachdocs/oct-2020/1602580413614.pdf
+19,AMFI,All,https://www.amfiindia.com/uploads/AMFI_Understanding_Mutual_Funds_IAP_Booklet_Final_Website_version_860a5b77aa.pdf
